@@ -1,0 +1,5 @@
+# O docker compose é o cara que orquestra tudo dentro do docker, dentro desse arquivo eu terei informações do que é para ele subir no front-end no back-end e no DB. 
+# Ou seja o docker compose não é nada mais nada menos do que um arquivo e dentro desse arquivo existe todas as instruções sobre os containers que vão subir, é como se fosse mais ou menos um docker file.
+
+# Uso do docker-compose
+# "docker-compose up" a palavra up é para ele construir o meu docker, ou seja no momento em que eu apertar o enter ele irá ler o meu arquivo "docker-compose" e criará os containers que estão escritos no arquivo.
